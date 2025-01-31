@@ -36,8 +36,8 @@ Link for presentation used in video submission: https://uillinoisedu-my.sharepoi
 - You can find directions to install Pygame at https://www.pygame.org/wiki/GettingStarted
 - To pull our repository, clone into VS Code and cd into the repository using:
 ```
-git clone https://github.com/CS222SP22/course-project-dh-a
-cd course-project-dh-a
+git clone https://github.com/erifyc1/operationUNO.git
+cd operationUNO
 ```
 - To run the actual game, type: 
 ```python3 OperationUNO.py``` 
